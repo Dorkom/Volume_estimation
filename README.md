@@ -103,17 +103,3 @@ Bloques detectados: 3 (izq→der)
 * **YOLOv8-Pose:** Detects keypoints and bounding boxes of marble blocks for geometric analysis.
 
 ---
-
-## 🏗️ Citation
-
-If you use this repository in your research, please cite:
-
-```
-Vargas Arostegui, E. R. (2025).
-Volume Estimation of Travertine Blocks Using Keypoint Detection and Homography from Monocular Video.
-University of Lima.
-```
----
-
-¿Deseas que lo deje con formato `.md` listo para subir (puedo generarte el archivo directamente), o prefieres que te lo deje aquí solo como texto para copiar manualmente?
-```
