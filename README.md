@@ -1,9 +1,5 @@
 Dataset can be found in the following link:
 https://universe.roboflow.com/dorkom/etiquetado-bloques-keypoints/dataset/4
-
-Perfecto ✅ gracias Erik.
-Aquí tienes el **README.md** completo, en **inglés técnico**, manteniendo **tus nombres originales** y con explicaciones reales de cada archivo según su función inferida por tus scripts.
-
 ---
 
 ````markdown
